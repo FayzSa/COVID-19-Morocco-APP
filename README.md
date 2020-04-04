@@ -1,6 +1,6 @@
-# corona_morroco
+# COVID-19 Morocco App
 
-A new Flutter project.
+An App giving statistics about COVID-19 in Morocco 
 
 ## Getting Started
 
