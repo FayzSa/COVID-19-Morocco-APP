@@ -21,7 +21,7 @@ class Mcovid
 
       try {  
      
-      Response res = await get("https://tram-production.com/covid-api");
+      Response res = await get("https://tram-production.com/covid-api/api.php");
       Map all = jsonDecode(res.body);
       
       List eReg = all['REGIONS'];
