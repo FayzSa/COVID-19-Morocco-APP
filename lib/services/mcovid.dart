@@ -53,17 +53,7 @@ class Mcovid
 
 
 
-      //
-      /*this.regions = all["regions"];
-      this.cases = all["cases"].toString();
-      this.activeCases = all["activeCases"].toString();
-      this.todayCases = all["todayCases"].toString();
-      this.deaths = all["deaths"].toString();
-      this.todayDeaths = all["todayDeaths"].toString();
-      this.recoverds = all["recovered"].toString();
-      this.excludes = all["excludes"].toString();
-      this.error = null;
-   */
+    
       } catch (e) {
         error = e.toString();
       }
